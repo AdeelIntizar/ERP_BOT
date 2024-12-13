@@ -30,7 +30,7 @@ This is an ERP chatbot that assists the user with the following ERP-related task
   After cloning the bot you need to install all depedencies from **requirements.txt** file  
 3. **Download Model files**  
   The Project model is trained on google colab and model files are used  
-  So first you need to download model files directory from this link ** **  
+  So first you need to download model files directory from this link **https://drive.google.com/drive/folders/1lhYipiG7DUd_xxqb06j8Ky8sXCjzDBcP?usp=sharing**  
   After downloading this directory you need to make sure that the path of directory is correctly added in the code where the model is getting loaded **(model = BertForSequenceClassification.from_pretrained("checkpoint-210", use_safetensors=True))**
 
    4.**Setup Database**  
