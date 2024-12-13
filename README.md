@@ -1,4 +1,4 @@
-This is an ERP chatbot which assists the user for followings ERP related tasks:
+This is an ERP chatbot which assists the user for followings ERP related tasks\n:
 1-	Human Resources
   a.	Scheduling an interview
   b.	Checking performance of an employee
