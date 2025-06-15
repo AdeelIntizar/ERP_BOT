@@ -4,7 +4,8 @@ A smart chatbot that helps with Enterprise Resource Planning (ERP) tasks. This b
 
 ## Demo Video
 
-[![Demo Video](erp_bot_interface.png)]([https://drive.google.com/file/d/1AbCDefGhIjKlMnOpQRsTUVwxyz/view](https://drive.google.com/file/d/1f5P_i9w-XQKg1NNETuDYqcKIvYASS0TR/view?usp=sharing))
+[![Demo Video](erp_bot_interface.png)](https://drive.google.com/file/d/1f5P_i9w-XQKg1NNETuDYqcKIvYASS0TR/view?usp=sharing)
+
 
 *Click the image above to watch a demonstration of the ERP Chatbot in action*
 
