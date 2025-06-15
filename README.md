@@ -2,6 +2,12 @@
 
 A smart chatbot that helps with Enterprise Resource Planning (ERP) tasks. This bot uses AI to understand what users need and helps them with different business operations.
 
+## Demo Video
+
+[![Demo Video](erp_bot_interface.png)]([https://drive.google.com/file/d/1AbCDefGhIjKlMnOpQRsTUVwxyz/view](https://drive.google.com/file/d/1f5P_i9w-XQKg1NNETuDYqcKIvYASS0TR/view?usp=sharing))
+
+*Click the image above to watch a demonstration of the ERP Chatbot in action*
+
 ## What This Bot Does
 
 The chatbot can help with these main business areas:
@@ -105,23 +111,4 @@ python gradio_app_code.py
 - **Missing packages**: Run `pip install -r requirements.txt` again
 - **Path errors**: Make sure all file paths in the code are correct
 
-## Getting Help
 
-If you run into problems:
-1. Check that all files are in the right places
-2. Make sure your database is running
-3. Verify all Python packages are installed
-4. Double-check your database connection settings
-
-## Project Structure
-```
-ERP_BOT/
-├── gradio_app_code.py          # Main application file
-├── database_tables.py          # Database setup
-├── requirements.txt            # Required Python packages
-├── checkpoint-210/             # AI model files (download separately)
-└── README.md                   # This file
-```
-
----
-*This README.md file provides complete setup and usage instructions for the ERP Chatbot system.*
